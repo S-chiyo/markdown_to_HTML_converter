@@ -3,4 +3,4 @@
 ### 実行コマンド
 python converter.py markdown inputpath outputpath
 ### 説明
-Markdown形式で書かれたファイルをHTML形式に変換することができます
+上記コマンドをターミナルで実行すると、Markdown形式で書かれたinputファイルをHTML形式に変換してoutputファイルとして保存することができます。
